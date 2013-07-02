@@ -19,6 +19,9 @@ classes/
 res/
 AndroidManifest.xml
 R.txt
+classes.dex
+dexedLibs/
+resources.ap_
 
 # External tool builders
 .externalToolBuilders/
